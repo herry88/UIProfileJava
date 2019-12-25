@@ -1,2 +1,2 @@
 # UIProfileJava
-![][Screenshot/screenshotpd.png]
+![][screenshot/screenshotpd.png]
