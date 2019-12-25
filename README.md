@@ -1,4 +1,4 @@
 # UIProfileJava
 Design Profile
-![][screenshot/screenshotpd.png]
+Desain profile dengan android studio
 
